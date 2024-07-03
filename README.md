@@ -10,4 +10,4 @@ Scenario: Imagine a software development company managing projects for various c
 - Deliverables:
 
 SQL scripts for the database, all queries, functions, views, and stored procedures.
-Diagrams illustrating database schema and relationships.'
+Diagrams illustrating database schema and relationships.
